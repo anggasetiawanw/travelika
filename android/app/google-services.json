@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1032466400831",
+    "project_id": "travelika",
+    "storage_bucket": "travelika.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032466400831:android:5c28b02ae423ad59441a8a",
+        "android_client_info": {
+          "package_name": "com.example.travelika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032466400831-c4haft2bjghenph4meodo3i5lema6elg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelika",
+            "certificate_hash": "c0f31fd7516bc5f000ee85bd594c51f8c038775e"
+          }
+        },
+        {
+          "client_id": "1032466400831-7mo4dbifqbu3psvvctupfqus62m306n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKZpxe-Fybbovk7Ouw53jp4dER3dKKEGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032466400831-7mo4dbifqbu3psvvctupfqus62m306n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
