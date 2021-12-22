@@ -10,7 +10,7 @@ menggunakan sistem consume API dan juga menggunakan state management (Cubit)
 
 ## Screenshot
 ### Loading Screen
-<img src="https://user-images.githubusercontent.com/78639353/147044353-4530a39f-3f7d-42a5-a145-2f892eb00f82.jpg">{:height="50%" width="50%"}
+![LoadingScreen](https://user-images.githubusercontent.com/78639353/147044353-4530a39f-3f7d-42a5-a145-2f892eb00f82.jpg){:height="50%" width="50%"}
 ### Get Started
 <img src="https://user-images.githubusercontent.com/78639353/147044358-49ed41cb-911b-405b-a9ac-24960ed0f374.jpg">
 ### SignUp
