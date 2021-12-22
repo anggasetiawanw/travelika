@@ -9,5 +9,5 @@ Service Menggunakan cloudfiretore dan firebase.
 menggunakan sistem consume API dan juga menggunakan state management (Cubit)
 
 ## Screenshot
-### Loading Screen
-<img src="https://drive.google.com/drive/folders/1OP7dFjndrZ5NQGLCzxoWV_0kKKaI_2z0">
+![ScreenShot](https://drive.google.com/drive/folders/1OP7dFjndrZ5NQGLCzxoWV_0kKKaI_2z0)
+
